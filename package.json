@@ -1,0 +1,21 @@
+{
+  "name": "tommy",
+  "version": "1.0.0",
+  "description": "bot",
+  "main": "main.js",
+  "scripts": {
+    "test": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "123"
+  },
+  "keywords": [
+    "bot"
+  ],
+  "author": "thi3f",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.6.0"
+  }
+}
